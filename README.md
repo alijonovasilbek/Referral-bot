@@ -1,2 +1,2 @@
-![Usmonov's Learning Center](https://github.com/alijonovasilbek/Referral-bot/1.jpg)
+![Usmonov's Learning Center](https://github.com/alijonovasilbek/Referral-bot/blob/main/1.jpg)
 
