@@ -8,7 +8,7 @@ from  utils import  commands_admin,commands_user
 from aiogram.exceptions import TelegramBadRequest
 
 
-API_TOKEN = '7255043611:AAEThmAl-OoPP4BL8Ir5UirEpMlHqyN95Co'
+API_TOKEN = ''
 CHANNELS = ["@phytonkodlar", "@makhtalks","@usmonovs_learning_center"]
 
 
