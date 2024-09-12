@@ -1,0 +1,6 @@
+aiofiles==23.2.1
+aiogram==3.12.0
+aiohttp==3.10.5
+pillow==10.4.0
+pydantic==2.8.2
+
